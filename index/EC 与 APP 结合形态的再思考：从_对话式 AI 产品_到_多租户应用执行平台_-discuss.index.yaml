@@ -1,0 +1,62 @@
+origin_path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/
+created: '2026-04-20T19:58:00+08:00'
+last_updated: '2026-04-22T10:50:25+08:00'
+discussions:
+- path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/
+  status: open
+  files:
+  - path: 001_huangshengli_proposal_499a8d.md
+    summary: ''
+    refs: []
+  - path: 002_dengke_reply_2e1e25.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/001_huangshengli_proposal_499a8d.md
+  - path: 003_huangshengli_reply_99eda2.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/002_dengke_reply_2e1e25.md
+  - path: 004_dengke_reply_2eeaf1.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/003_huangshengli_reply_99eda2.md
+    - type: refer
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/002_dengke_reply_2e1e25.md
+    - type: refer
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/001_huangshengli_proposal_499a8d.md
+  - path: 005_huangshengli_reply_410741.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/004_dengke_reply_2eeaf1.md
+timeline:
+- time: '2026-04-20T19:58:00+08:00'
+  event: huangshengli created thread
+  file: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/001_huangshengli_proposal_499a8d.md
+  mention:
+    users:
+    - user: 邓柯
+      open_id: ou_22c56f2cf922c5b89336dd7d271c93c0
+    - user: 刘昱
+      open_id: ou_ae6d4a1d95509f1ae89da4a896c75d74
+    comments: 关于EC与APP相处形态的一些思考
+- time: '2026-04-21T01:44:23+08:00'
+  event: dengke replied
+  file: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/002_dengke_reply_2e1e25.md
+  mention:
+    users:
+    - user: Captain
+      open_id: ou_9ecc7eaa198879744a49b6ffd19fa18a
+    comments: 我的一些看法，供参考
+- time: '2026-04-21T23:07:16+08:00'
+  event: huangshengli replied
+  file: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/003_huangshengli_reply_99eda2.md
+- time: '2026-04-22T00:16:11+08:00'
+  event: dengke replied
+  file: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/004_dengke_reply_2eeaf1.md
+- time: '2026-04-22T10:50:25+08:00'
+  event: huangshengli replied
+  file: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/005_huangshengli_reply_410741.md

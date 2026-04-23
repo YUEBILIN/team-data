@@ -1,0 +1,94 @@
+origin_path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/
+created: '2026-04-21T22:31:13+08:00'
+last_updated: '2026-04-23T01:50:51+08:00'
+discussions:
+- path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/
+  status: open
+  files:
+  - path: 001_dengke_proposal_e8a253.md
+    summary: ''
+    refs: []
+  - path: 002_liuyu_reply_fbeca6.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_proposal_e8a253.md
+  - path: 003_tangkun_reply_1cbe31.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_proposal_e8a253.md
+  - path: 004_huangshengli_reply_c0b113.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_proposal_e8a253.md
+  - path: 005_dengke_reply_f247a2.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/003_tangkun_reply_1cbe31.md
+  - path: 006_dengke_reply_f1ad6a.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_proposal_e8a253.md
+  - path: 007_dengke_reply_3d3e55.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/004_huangshengli_reply_c0b113.md
+  - path: 008_dengke_reply_33012f.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/002_liuyu_reply_fbeca6.md
+  - path: 009_huangshengli_reply_85cbbd.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/007_dengke_reply_3d3e55.md
+  - path: 010_dengke_reply_d07514.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/009_huangshengli_reply_85cbbd.md
+  - path: 011_huangshengli_reply_3f0748.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/010_dengke_reply_d07514.md
+timeline:
+- time: '2026-04-21T22:31:13+08:00'
+  event: dengke created thread
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_proposal_e8a253.md
+- time: '2026-04-22T14:07:30+08:00'
+  event: liuyu replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/002_liuyu_reply_fbeca6.md
+- time: '2026-04-22T16:35:03+08:00'
+  event: tangkun replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/003_tangkun_reply_1cbe31.md
+- time: '2026-04-22T17:22:54+08:00'
+  event: huangshengli replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/004_huangshengli_reply_c0b113.md
+- time: '2026-04-22T17:24:42+08:00'
+  event: dengke replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/005_dengke_reply_f247a2.md
+- time: '2026-04-22T17:36:15+08:00'
+  event: dengke replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/006_dengke_reply_f1ad6a.md
+- time: '2026-04-22T17:55:48+08:00'
+  event: dengke replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/007_dengke_reply_3d3e55.md
+- time: '2026-04-22T18:22:01+08:00'
+  event: dengke replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/008_dengke_reply_33012f.md
+- time: '2026-04-22T18:31:52+08:00'
+  event: huangshengli replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/009_huangshengli_reply_85cbbd.md
+- time: '2026-04-22T20:01:18+08:00'
+  event: dengke replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/010_dengke_reply_d07514.md
+- time: '2026-04-23T01:50:51+08:00'
+  event: huangshengli replied
+  file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/011_huangshengli_reply_3f0748.md

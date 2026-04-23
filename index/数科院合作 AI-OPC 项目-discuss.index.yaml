@@ -1,0 +1,46 @@
+origin_path: discussions/enclaws/数科院合作 AI-OPC 项目/
+created: '2026-04-22T18:37:07+08:00'
+last_updated: '2026-04-23T10:47:23+08:00'
+discussions:
+- path: discussions/enclaws/数科院合作 AI-OPC 项目/
+  status: open
+  files:
+  - path: 001_xiongjianping_proposal_f28554.md
+    summary: ''
+    refs: []
+  - path: 002_xiongjianping_reply_957c0a.md
+    summary: ''
+    refs:
+    - type: from
+      path: discussions/enclaws/数科院合作 AI-OPC 项目/001_xiongjianping_proposal_f28554.md
+timeline:
+- time: '2026-04-22T18:37:07+08:00'
+  event: xiongjianping created thread
+  file: discussions/enclaws/数科院合作 AI-OPC 项目/001_xiongjianping_proposal_f28554.md
+  mention:
+    users:
+    - user: 邓柯
+      open_id: ou_22c56f2cf922c5b89336dd7d271c93c0
+    - user: 刘昱
+      open_id: ou_ae6d4a1d95509f1ae89da4a896c75d74
+    - user: 张菠
+      open_id: ou_5e29a4635a606eedef0b871c64162629
+    comments: 数科院合作 AI-OPC 项目立项（plan 起点）：首次会议复盘 + 产品主张（聚焦内容变现 OPC）
+- time: '2026-04-23T10:47:23+08:00'
+  event: xiongjianping replied
+  file: discussions/enclaws/数科院合作 AI-OPC 项目/002_xiongjianping_reply_957c0a.md
+  mention:
+    users:
+    - user: 邓柯
+      open_id: ou_22c56f2cf922c5b89336dd7d271c93c0
+    comments: 微信群收到蒋鲲拟汇报材料，跟进并整理此reply，请查看。
+- time: '2026-04-23T10:51:24+08:00'
+  event: xiongjianping mentioned
+  file: discussions/enclaws/数科院合作 AI-OPC 项目/002_xiongjianping_reply_957c0a.md
+  mention:
+    users:
+    - user: Daisy
+      open_id: ou_730c14ad7f645ee1d55499d5329e867a
+    - user: 刘昱
+      open_id: ou_ae6d4a1d95509f1ae89da4a896c75d74
+    comments: 你们也看看，有补充请直接回复。

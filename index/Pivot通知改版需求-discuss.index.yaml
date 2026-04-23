@@ -1,0 +1,27 @@
+origin_path: discussions/Pivot/Pivot通知改版需求/
+created: '2026-04-22T21:11:54+08:00'
+last_updated: '2026-04-22T21:11:54+08:00'
+discussions:
+- path: discussions/Pivot/Pivot通知改版需求/
+  status: open
+  files:
+  - path: 001_dengke_proposal_ec263d.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-22T21:11:54+08:00'
+  event: dengke created thread
+  file: discussions/Pivot/Pivot通知改版需求/001_dengke_proposal_ec263d.md
+  mention:
+    users:
+    - user: 刘昱
+      open_id: ou_ae6d4a1d95509f1ae89da4a896c75d74
+    comments: 请安排工程师，本方案希望明天内完成实现。
+- time: '2026-04-22T21:23:00+08:00'
+  event: liuyu mentioned
+  file: discussions/Pivot/Pivot通知改版需求/001_dengke_proposal_ec263d.md
+  mention:
+    users:
+    - user: 叶再勇
+      open_id: ou_f2ecf7529b639a95d53d7df4ba0a3068
+    comments: 注：目前vscode的最新版本中关于“未升级的终端如果继续使用旧格式发帖，应直接报错，不允许静默兼容”做了一点修改，即：当客户端访问新版本插件下载地址发生网络失败时，亦可继续使用~该判断可能需要再讨论下。
