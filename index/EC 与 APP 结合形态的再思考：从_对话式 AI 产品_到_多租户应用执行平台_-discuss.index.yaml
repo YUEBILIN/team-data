@@ -1,9 +1,9 @@
 origin_path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/
 created: '2026-04-20T19:58:00+08:00'
-last_updated: '2026-04-24T14:24:16+08:00'
+last_updated: '2026-04-24T14:24:21+08:00'
 discussions:
 - path: discussions/enclaws/EC 与 APP 结合形态的再思考：从_对话式 AI 产品_到_多租户应用执行平台_/
-  status: open
+  status: pending
   files:
   - path: 001_huangshengli_proposal_499a8d.md
     summary: ''
@@ -64,3 +64,5 @@ timeline:
   event: yuebilin2 状态变更 open -> pending
 - time: '2026-04-24T14:24:16+08:00'
   event: yuebilin2 状态变更 pending -> open
+- time: '2026-04-24T14:24:21+08:00'
+  event: yuebilin2 状态变更 open -> pending
