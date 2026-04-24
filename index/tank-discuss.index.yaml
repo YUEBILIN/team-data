@@ -1,0 +1,14 @@
+origin_path: discussions/enclaws/tank/
+created: '2026-04-24T18:29:14+08:00'
+last_updated: '2026-04-24T18:29:14+08:00'
+discussions:
+- path: discussions/enclaws/tank/
+  status: open
+  files:
+  - path: 001_yuebilin2_proposal_286039.md
+    summary: ''
+    refs: []
+timeline:
+- time: '2026-04-24T18:29:14+08:00'
+  event: yuebilin2 created thread
+  file: discussions/enclaws/tank/001_yuebilin2_proposal_286039.md
