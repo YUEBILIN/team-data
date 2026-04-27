@@ -2,9 +2,9 @@ version: 1
 matter:
   id: blin
   title: blin
-  current_status: executing
+  current_status: finished
   created_at: '2026-04-27T10:52:37+08:00'
-  updated_at: '2026-04-27T10:58:50+08:00'
+  updated_at: '2026-04-27T10:59:50+08:00'
 timeline:
 - file: discussions/Pivot/blin/001_yuebilin2_think_927c87.md
   created_at: '2026-04-27T10:52:37+08:00'
@@ -46,3 +46,13 @@ timeline:
   - target: discussions/Pivot/blin/003_yuebilin2_act_f29849.md
     judgement: passed
     comment: 通过
+- file: discussions/Pivot/blin/005_yuebilin2_result_0f12c9.md
+  created_at: '2026-04-27T10:59:50+08:00'
+  creator: yuebilin2
+  owner: yuebilin2
+  type: result
+  summary: 确认该事项已执行完毕。
+  outcome: finished
+  status_change:
+    from: executing
+    to: finished
