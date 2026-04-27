@@ -2,9 +2,9 @@ version: 1
 matter:
   id: Pivot 产品设计 - 设计哲学和基本原理
   title: Pivot 产品设计 - 设计哲学和基本原理
-  current_status: planning
+  current_status: executing
   created_at: '2026-04-21T22:31:13+08:00'
-  updated_at: '2026-04-26T01:45:03+08:00'
+  updated_at: '2026-04-27T17:07:32+08:00'
 timeline:
 - file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/001_dengke_think_e8a253.md
   created_at: '2026-04-21T22:31:13+08:00'
@@ -205,3 +205,18 @@ timeline:
   type: think
   summary: ''
   quote: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/023_huangshengli_think_d3c9af.md
+- file: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/025_yuebilin_act_e918eb.md
+  created_at: '2026-04-27T17:07:32+08:00'
+  creator: yuebilin
+  owner: ou_b74a20222847752d9108e6249301cdf4
+  type: act
+  summary: 提交数字 324。
+  quote: discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/021_tangkun_think_f53902.md
+  refer:
+  - discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/004_huangshengli_think_c0b113.md
+  - discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/005_dengke_think_f247a2.md
+  - discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/006_dengke_think_f1ad6a.md
+  - discussions/Pivot/Pivot 产品设计 - 设计哲学和基本原理/007_dengke_think_3d3e55.md
+  status_change:
+    from: planning
+    to: executing
