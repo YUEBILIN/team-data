@@ -1,0 +1,21 @@
+version: 1
+matter:
+  id: EC定时任务逻辑整理改造
+  title: EC定时任务逻辑整理改造
+  current_status: planning
+  created_at: '2026-04-21T17:43:34+08:00'
+  updated_at: '2026-04-22T10:17:02+08:00'
+timeline:
+- file: discussions/enclaws/EC定时任务逻辑整理改造/001_zhangbo_think_6eb888.md
+  created_at: '2026-04-21T17:43:34+08:00'
+  creator: zhangbo
+  owner: zhangbo
+  type: think
+  summary: ''
+- file: discussions/enclaws/EC定时任务逻辑整理改造/002_liuyu_think_a8aa59.md
+  created_at: '2026-04-22T10:17:02+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/enclaws/EC定时任务逻辑整理改造/001_zhangbo_think_6eb888.md

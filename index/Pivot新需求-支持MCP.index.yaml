@@ -1,0 +1,83 @@
+version: 1
+matter:
+  id: Pivot新需求-支持MCP
+  title: Pivot新需求-支持MCP
+  current_status: planning
+  created_at: '2026-04-23T13:49:26+08:00'
+  updated_at: '2026-04-25T02:10:10+08:00'
+timeline:
+- file: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+  created_at: '2026-04-23T13:49:26+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+- file: discussions/Pivot/Pivot新需求-支持MCP/002_liuyu_think_0bece3.md
+  created_at: '2026-04-23T17:26:29+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/003_dengke_think_c9fe84.md
+  created_at: '2026-04-23T17:35:46+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/004_yezaiyong_think_cd6eb2.md
+  created_at: '2026-04-23T18:29:47+08:00'
+  creator: yezaiyong
+  owner: yezaiyong
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/005_dengke_think_041c6c.md
+  created_at: '2026-04-23T18:47:35+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/004_yezaiyong_think_cd6eb2.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/006_liuyu_think_c15f94.md
+  created_at: '2026-04-23T19:12:32+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/005_dengke_think_041c6c.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/007_dengke_think_cb7a4b.md
+  created_at: '2026-04-23T19:16:23+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+- file: discussions/Pivot/Pivot新需求-支持MCP/008_yezaiyong_think_f37772.md
+  created_at: '2026-04-24T11:21:06+08:00'
+  creator: yezaiyong
+  owner: yezaiyong
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/001_dengke_think_3901e6.md
+  comments:
+  - created_at: '2026-04-24T12:55:02+08:00'
+    body: 我暂时没有时间看这个东西，请刘昱检查、评论并批准这个方案的最终执行。
+    author: dengke
+    mentions:
+    - ou_ae6d4a1d95509f1ae89da4a896c75d74
+  - created_at: '2026-04-24T14:57:01+08:00'
+    body: server需要做哪些支持
+    author: huangshengli
+    mentions:
+    - ou_9ecc7eaa198879744a49b6ffd19fa18a
+    - ou_63b6889c8a7a79d15b43ee3082a3e0b8
+    - ou_f2ecf7529b639a95d53d7df4ba0a3068
+- file: discussions/Pivot/Pivot新需求-支持MCP/009_dengke_think_877788.md
+  created_at: '2026-04-25T02:10:10+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot新需求-支持MCP/008_yezaiyong_think_f37772.md

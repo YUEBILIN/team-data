@@ -1,0 +1,21 @@
+version: 1
+matter:
+  id: WebClientUI打磨与重构需求
+  title: Pivot Web Client UI 打磨与重构需求
+  current_status: planning
+  created_at: '2026-04-23T17:33:41+08:00'
+  updated_at: '2026-04-23T18:13:12+08:00'
+timeline:
+- file: discussions/Pivot/WebClientUI打磨与重构需求/001_dengke_think_5da903.md
+  created_at: '2026-04-23T17:33:41+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+- file: discussions/Pivot/WebClientUI打磨与重构需求/002_liuyu_think_625a8b.md
+  created_at: '2026-04-23T18:13:12+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/Pivot/WebClientUI打磨与重构需求/001_dengke_think_5da903.md

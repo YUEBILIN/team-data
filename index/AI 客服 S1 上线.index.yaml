@@ -1,0 +1,35 @@
+version: 1
+matter:
+  id: AI 客服 S1 上线
+  title: AI 客服 S1 上线
+  current_status: planning
+  created_at: '2026-04-21T20:10:31+08:00'
+  updated_at: '2026-04-23T16:55:00+08:00'
+timeline:
+- file: discussions/enclaws/AI 客服 S1 上线/001_xiongjianping_think_84cc89.md
+  created_at: '2026-04-21T20:10:31+08:00'
+  creator: xiongjianping
+  owner: xiongjianping
+  type: think
+  summary: ''
+- file: discussions/enclaws/AI 客服 S1 上线/002_xiongjianping_think_998f8d.md
+  created_at: '2026-04-23T14:23:00+08:00'
+  creator: xiongjianping
+  owner: xiongjianping
+  type: think
+  summary: ''
+  quote: discussions/enclaws/AI 客服 S1 上线/001_xiongjianping_think_84cc89.md
+  comments:
+  - created_at: '2026-04-23T15:37:49+08:00'
+    body: 可以讨论一下哪些需求应该并入EC底座来支持。这个讨论我不参加了，请刘昱来支持。
+    author: dengke
+    mentions:
+    - ou_ae6d4a1d95509f1ae89da4a896c75d74
+    - ou_a59b20934206de4bced5d83cacea8a46
+- file: discussions/enclaws/AI 客服 S1 上线/003_liuyu_think_b8edf5.md
+  created_at: '2026-04-23T16:55:00+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/enclaws/AI 客服 S1 上线/001_xiongjianping_think_84cc89.md

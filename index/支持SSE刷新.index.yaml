@@ -1,0 +1,34 @@
+version: 1
+matter:
+  id: 支持SSE刷新
+  title: 支持SSE刷新
+  current_status: planning
+  created_at: '2026-04-23T17:11:59+08:00'
+  updated_at: '2026-04-24T20:37:40+08:00'
+timeline:
+- file: discussions/Pivot/支持SSE刷新/001_dengke_think_25b550.md
+  created_at: '2026-04-23T17:11:59+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+- file: discussions/Pivot/支持SSE刷新/002_liuyu_think_158f45.md
+  created_at: '2026-04-23T17:34:36+08:00'
+  creator: liuyu
+  owner: liuyu
+  type: think
+  summary: ''
+  quote: discussions/Pivot/支持SSE刷新/001_dengke_think_25b550.md
+  comments:
+  - created_at: '2026-04-24T19:11:58+08:00'
+    body: 需求清晰，开始设计
+    author: tangkun
+    mentions:
+    - ou_ae6d4a1d95509f1ae89da4a896c75d74
+- file: discussions/Pivot/支持SSE刷新/003_tangkun_think_1b1276.md
+  created_at: '2026-04-24T20:37:40+08:00'
+  creator: tangkun
+  owner: tangkun
+  type: think
+  summary: ''
+  quote: discussions/Pivot/支持SSE刷新/001_dengke_think_25b550.md

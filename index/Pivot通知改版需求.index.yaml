@@ -1,0 +1,48 @@
+version: 1
+matter:
+  id: Pivot通知改版需求
+  title: Pivot 通知改版需求
+  current_status: planning
+  created_at: '2026-04-22T21:11:54+08:00'
+  updated_at: '2026-04-23T16:44:15+08:00'
+timeline:
+- file: discussions/Pivot/Pivot通知改版需求/001_dengke_think_ec263d.md
+  created_at: '2026-04-22T21:11:54+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  comments:
+  - created_at: '2026-04-22T21:23:00+08:00'
+    body: 注：目前vscode的最新版本中关于“未升级的终端如果继续使用旧格式发帖，应直接报错，不允许静默兼容”做了一点修改，即：当客户端访问新版本插件下载地址发生网络失败时，亦可继续使用~该判断可能需要再讨论下。
+    author: liuyu
+    mentions:
+    - ou_f2ecf7529b639a95d53d7df4ba0a3068
+- file: discussions/Pivot/Pivot通知改版需求/002_dengke_think_cf63a8.md
+  created_at: '2026-04-23T13:18:55+08:00'
+  creator: dengke
+  owner: dengke
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot通知改版需求/001_dengke_think_ec263d.md
+- file: discussions/Pivot/Pivot通知改版需求/003_yezaiyong_think_17706a.md
+  created_at: '2026-04-23T13:34:56+08:00'
+  creator: yezaiyong
+  owner: yezaiyong
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot通知改版需求/001_dengke_think_ec263d.md
+- file: discussions/Pivot/Pivot通知改版需求/004_yezaiyong_think_d8178e.md
+  created_at: '2026-04-23T15:30:48+08:00'
+  creator: yezaiyong
+  owner: yezaiyong
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot通知改版需求/001_dengke_think_ec263d.md
+- file: discussions/Pivot/Pivot通知改版需求/005_yezaiyong_think_8feef7.md
+  created_at: '2026-04-23T16:44:15+08:00'
+  creator: yezaiyong
+  owner: yezaiyong
+  type: think
+  summary: ''
+  quote: discussions/Pivot/Pivot通知改版需求/001_dengke_think_ec263d.md
