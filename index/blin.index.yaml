@@ -2,9 +2,9 @@ version: 1
 matter:
   id: blin
   title: blin
-  current_status: planning
+  current_status: executing
   created_at: '2026-04-27T10:52:37+08:00'
-  updated_at: '2026-04-27T10:53:40+08:00'
+  updated_at: '2026-04-27T10:56:47+08:00'
 timeline:
 - file: discussions/Pivot/blin/001_yuebilin2_think_927c87.md
   created_at: '2026-04-27T10:52:37+08:00'
@@ -19,3 +19,13 @@ timeline:
   type: think
   summary: 仅为数字占位输入，未对样式调整提出实质性讨论意见。
   quote: discussions/Pivot/blin/001_yuebilin2_think_927c87.md
+- file: discussions/Pivot/blin/003_yuebilin2_act_f29849.md
+  created_at: '2026-04-27T10:56:47+08:00'
+  creator: yuebilin2
+  owner: ou_4f0b79b2cf4c13e4cbcba1ad68fcc107
+  type: act
+  summary: 正式启动执行流程。
+  quote: discussions/Pivot/blin/002_yuebilin2_think_abcc70.md
+  status_change:
+    from: planning
+    to: executing
