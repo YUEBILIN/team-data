@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 小红书test1
+  title: 小红书test1
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-04-30T17:10:36+08:00'
+  updated_at: '2026-04-30T17:10:36+08:00'
+timeline:
+- file: discussions/Pivot/小红书test1/001_yuebilin_think_f36550.md
+  created_at: '2026-04-30T17:10:36+08:00'
+  creator: yuebilin
+  owner: 1cd533d088b6490b8cb6059aeb7ba9ae
+  type: think
+  summary: 发起小红书AI方向讨论，梳理定位、差异化与可行性框架，旨在明确项目边界、收敛MVP假设并识别风险，为后续落地做准备。
