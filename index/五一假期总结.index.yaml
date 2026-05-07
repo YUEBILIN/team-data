@@ -1,0 +1,21 @@
+version: 1
+matter:
+  id: 五一假期总结
+  title: 五一假期总结
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: restricted
+    roles:
+    - member
+    user_ids:
+    - 1cd533d088b6490b8cb6059aeb7ba9ae
+  created_at: '2026-05-06T12:43:48+08:00'
+  updated_at: '2026-05-06T12:43:48+08:00'
+timeline:
+- file: discussions/假期/五一假期总结/001_yuebilin_think_9893f6.md
+  created_at: '2026-05-06T12:43:48+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 对五一假期的休息、活动与收获进行系统性回顾，沉淀经验并提炼对后续工作节奏的启示。

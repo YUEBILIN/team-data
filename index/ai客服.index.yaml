@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: ai客服
+  title: ai客服
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-04-30T15:13:50+08:00'
+  updated_at: '2026-04-30T15:13:50+08:00'
+timeline:
+- file: discussions/Pivot/ai客服/001_yuebilin_think_41be5a.md
+  created_at: '2026-04-30T15:13:50+08:00'
+  creator: yuebilin
+  owner: 1cd533d088b6490b8cb6059aeb7ba9ae
+  type: think
+  summary: 初步提出关于AI客服系统的讨论意向，旨在明确业务需求、应用场景及后续评估方向。
