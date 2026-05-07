@@ -1,0 +1,21 @@
+version: 1
+matter:
+  id: 岳碧林小号2222
+  title: 岳碧林小号2222
+  current_status: planning
+  owner: yuebilin2
+  visibility:
+    mode: restricted
+    roles: []
+    user_ids:
+    - 1cd533d088b6490b8cb6059aeb7ba9ae
+    - 1e8f676da1c4418c83e7820cc81e75dd
+  created_at: '2026-05-07T15:39:48+08:00'
+  updated_at: '2026-05-07T15:39:48+08:00'
+timeline:
+- file: discussions/小号测试/岳碧林小号2222/001_yuebilin_think_a34f31.md
+  created_at: '2026-05-07T15:39:48+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 测试岳碧林小号2222创建matter、发帖交互、权限展示及操作追踪等功能，以评估其后续可用性。
