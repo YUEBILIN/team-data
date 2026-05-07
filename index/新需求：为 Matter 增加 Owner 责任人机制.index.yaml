@@ -3,9 +3,9 @@ matter:
   id: 新需求：为 Matter 增加 Owner 责任人机制
   title: 新需求：为 Matter 增加 Owner 责任人机制
   current_status: executing
-  owner: yuebilin2
+  owner: yuebilin
   created_at: '2026-04-28T13:03:22+08:00'
-  updated_at: '2026-05-07T15:15:19+08:00'
+  updated_at: '2026-05-07T15:15:53+08:00'
 timeline:
 - file: discussions/Pivot/新需求：为 Matter 增加 Owner 责任人机制/001_dengke_think_c5aafe.md
   created_at: '2026-04-28T13:03:22+08:00'
@@ -98,4 +98,10 @@ timeline:
   actor: yuebilin2
   from_owner: lishuai
   to_owner: yuebilin2
+  reason: '213'
+- type: owner_change
+  created_at: '2026-05-07T15:15:53+08:00'
+  actor: yuebilin
+  from_owner: yuebilin2
+  to_owner: yuebilin
   reason: '213'
