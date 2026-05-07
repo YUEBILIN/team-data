@@ -1,0 +1,20 @@
+version: 1
+matter:
+  id: 岳碧林小号是owner
+  title: 岳碧林小号是owner
+  current_status: planning
+  owner: yuebilin2
+  visibility:
+    mode: restricted
+    roles: []
+    user_ids:
+    - 1cd533d088b6490b8cb6059aeb7ba9ae
+  created_at: '2026-05-07T15:10:51+08:00'
+  updated_at: '2026-05-07T15:10:51+08:00'
+timeline:
+- file: discussions/57预发布前测试/岳碧林小号是owner/001_yuebilin_think_0d8cbe.md
+  created_at: '2026-05-07T15:10:51+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 明确判定岳碧林的小号身份为owner，推进相关账号权限归属确认。
