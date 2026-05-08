@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 优化战报信息展示：按人聚合与优先级排序
+  title: 优化战报信息展示：按人聚合与优先级排序
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T18:00:36+08:00'
+  updated_at: '2026-05-08T18:00:36+08:00'
+timeline:
+- file: discussions/product/优化战报信息展示：按人聚合与优先级排序/001_yuebilin_think_abecf3.md
+  created_at: '2026-05-08T18:00:36+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 探讨 Pivot 战报信息分散导致的阅读痛点，提出按人聚合与优先级排序的优化方向，需前端评估交互方案、数据侧确认字段可行性，并收敛 MVP 范围。
