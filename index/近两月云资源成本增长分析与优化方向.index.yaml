@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 近两月云资源成本增长分析与优化方向
+  title: 近两月云资源成本增长分析与优化方向
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T20:30:06+08:00'
+  updated_at: '2026-05-08T20:30:06+08:00'
+timeline:
+- file: discussions/213/近两月云资源成本增长分析与优化方向/001_yuebilin_think_896de8.md
+  created_at: '2026-05-08T20:30:06+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 分析近两月服务器成本异常增长原因，收敛排查范围，并评估低风险优化方案与长期成本监控机制。
