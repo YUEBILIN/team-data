@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 服务器成本近两月增长排查与优化方向
+  title: 服务器成本近两月增长排查与优化方向
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T20:32:22+08:00'
+  updated_at: '2026-05-08T20:32:22+08:00'
+timeline:
+- file: discussions/57预发布前测试/服务器成本近两月增长排查与优化方向/001_yuebilin_think_7b9f7f.md
+  created_at: '2026-05-08T20:32:22+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 排查近两月成本增长原因（存储/日志/空跑实例等），区分必要开销与浪费，收敛低风险优化方向及长期监控方案。
