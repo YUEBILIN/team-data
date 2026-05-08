@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 关于建立少儿英语客户 Demo 技术应答标准口径的探讨
+  title: 关于建立少儿英语客户 Demo 技术应答标准口径的探讨
+  current_status: planning
+  owner: yuebilin2
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T16:32:22+08:00'
+  updated_at: '2026-05-08T16:32:22+08:00'
+timeline:
+- file: discussions/销售支持/关于建立少儿英语客户 Demo 技术应答标准口径的探讨/001_yuebilin_think_3df806.md
+  created_at: '2026-05-08T16:32:22+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 探讨北区销售在少儿英语客户 Demo 后遇到的技术应答痛点，评估建立标准答复口径与升级流程的可行性。
