@@ -1,0 +1,19 @@
+version: 1
+matter:
+  id: 服务器成本近期增长排查与优化方向
+  title: 服务器成本近期增长排查与优化方向
+  current_status: planning
+  owner: yuebilin
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-08T20:44:04+08:00'
+  updated_at: '2026-05-08T20:44:04+08:00'
+timeline:
+- file: discussions/213/服务器成本近期增长排查与优化方向/001_yuebilin_think_fb0286.md
+  created_at: '2026-05-08T20:44:04+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 针对近期对象存储、日志及测试环境成本上涨问题发起排查讨论，旨在收敛范围、识别必要开销与浪费点，并规划低风险优化方案与常态化监控机制。
