@@ -34,3 +34,20 @@ timeline:
   status_change:
     from: planning
     to: executing
+  verifications_received:
+  - verify_file: discussions/示例/欢迎使用 Pivot - 你的第一个事项/003_yuebilin_verify_1845f3.md
+    verified_at: '2026-05-09T16:21:49+08:00'
+    verified_by: yuebilin
+    judgement: passed
+    comment: 示例方案已能说明下一步怎么推进。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项/003_yuebilin_verify_1845f3.md
+  created_at: '2026-05-09T16:21:49+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: verify
+  summary: 示例：对执行方案做一次验收判断。
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项/002_yuebilin_act_452985.md
+  verifications:
+  - target: discussions/示例/欢迎使用 Pivot - 你的第一个事项/002_yuebilin_act_452985.md
+    judgement: passed
+    comment: 示例方案已能说明下一步怎么推进。
