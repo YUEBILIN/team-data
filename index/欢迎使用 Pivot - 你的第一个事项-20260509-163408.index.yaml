@@ -2,7 +2,7 @@ version: 1
 matter:
   id: 欢迎使用 Pivot - 你的第一个事项-20260509-163408
   title: 欢迎使用 Pivot - 你的第一个事项
-  current_status: planning
+  current_status: executing
   owner: yuebilin
   workgroup:
   - user_id: yuebilin
@@ -24,3 +24,13 @@ timeline:
   owner: yuebilin
   type: think
   summary: 示例：把背景、目标和需要讨论的问题先写清楚。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163408/002_yuebilin_act_48f85e.md
+  created_at: '2026-05-09T16:34:08+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: act
+  summary: 示例：把下一步行动写成可执行方案，并进入执行阶段。
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163408/001_yuebilin_think_27ca8e.md
+  status_change:
+    from: planning
+    to: executing
