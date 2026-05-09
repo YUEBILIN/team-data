@@ -16,7 +16,7 @@ matter:
     user_ids:
     - 1cd533d088b6490b8cb6059aeb7ba9ae
   created_at: '2026-05-09T16:36:34+08:00'
-  updated_at: '2026-05-09T16:36:35+08:00'
+  updated_at: '2026-05-09T16:36:36+08:00'
 timeline:
 - file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163634/001_yuebilin_think_354cec.md
   created_at: '2026-05-09T16:36:34+08:00'
@@ -34,3 +34,20 @@ timeline:
   status_change:
     from: planning
     to: executing
+  verifications_received:
+  - verify_file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163634/003_yuebilin_verify_4472b4.md
+    verified_at: '2026-05-09T16:36:36+08:00'
+    verified_by: yuebilin
+    judgement: passed
+    comment: 示例方案已能说明下一步怎么推进。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163634/003_yuebilin_verify_4472b4.md
+  created_at: '2026-05-09T16:36:36+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: verify
+  summary: 示例：对执行方案做一次验收判断。
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163634/002_yuebilin_act_ad2697.md
+  verifications:
+  - target: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163634/002_yuebilin_act_ad2697.md
+    judgement: passed
+    comment: 示例方案已能说明下一步怎么推进。
