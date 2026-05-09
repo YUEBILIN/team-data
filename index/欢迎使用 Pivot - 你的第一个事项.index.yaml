@@ -1,0 +1,26 @@
+version: 1
+matter:
+  id: 欢迎使用 Pivot - 你的第一个事项
+  title: 欢迎使用 Pivot - 你的第一个事项
+  current_status: planning
+  owner: yuebilin
+  workgroup:
+  - user_id: yuebilin
+    role: 项目负责人
+    is_owner: true
+    added_at: '2026-05-09T16:21:48+08:00'
+    added_by: yuebilin
+  visibility:
+    mode: restricted
+    roles: []
+    user_ids:
+    - 1cd533d088b6490b8cb6059aeb7ba9ae
+  created_at: '2026-05-09T16:21:48+08:00'
+  updated_at: '2026-05-09T16:21:48+08:00'
+timeline:
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项/001_yuebilin_think_916260.md
+  created_at: '2026-05-09T16:21:48+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: 示例：把背景、目标和需要讨论的问题先写清楚。
