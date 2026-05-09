@@ -33,3 +33,20 @@ timeline:
   status_change:
     from: planning
     to: executing
+  verifications_received:
+  - verify_file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-181632/003_yuebilin_verify_bd7d1f.md
+    verified_at: '2026-05-09T18:16:33+08:00'
+    verified_by: yuebilin
+    judgement: passed
+    comment: 示例：这里记录 act 是否通过验收。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-181632/003_yuebilin_verify_bd7d1f.md
+  created_at: '2026-05-09T18:16:33+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: verify
+  summary: 验收 act 是否真的完成
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-181632/002_yuebilin_act_c1e187.md
+  verifications:
+  - target: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-181632/002_yuebilin_act_c1e187.md
+    judgement: passed
+    comment: 示例：这里记录 act 是否通过验收。
