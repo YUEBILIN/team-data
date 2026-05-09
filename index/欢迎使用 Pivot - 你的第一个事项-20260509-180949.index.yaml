@@ -16,7 +16,7 @@ matter:
     user_ids:
     - 1cd533d088b6490b8cb6059aeb7ba9ae
   created_at: '2026-05-09T18:09:49+08:00'
-  updated_at: '2026-05-09T18:09:52+08:00'
+  updated_at: '2026-05-09T18:09:53+08:00'
 timeline:
 - file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-180949/001_yuebilin_think_f5dcb5.md
   created_at: '2026-05-09T18:09:49+08:00'
@@ -33,3 +33,20 @@ timeline:
   status_change:
     from: planning
     to: executing
+  verifications_received:
+  - verify_file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-180949/003_yuebilin_verify_7476c9.md
+    verified_at: '2026-05-09T18:09:53+08:00'
+    verified_by: yuebilin
+    judgement: passed
+    comment: 示例：这里记录 act 是否通过验收。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-180949/003_yuebilin_verify_7476c9.md
+  created_at: '2026-05-09T18:09:53+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: verify
+  summary: 验收 act 是否真的完成
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-180949/002_yuebilin_act_9a6017.md
+  verifications:
+  - target: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-180949/002_yuebilin_act_9a6017.md
+    judgement: passed
+    comment: 示例：这里记录 act 是否通过验收。
