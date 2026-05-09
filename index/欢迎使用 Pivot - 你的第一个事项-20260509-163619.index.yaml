@@ -2,7 +2,7 @@ version: 1
 matter:
   id: 欢迎使用 Pivot - 你的第一个事项-20260509-163619
   title: 欢迎使用 Pivot - 你的第一个事项
-  current_status: executing
+  current_status: finished
   owner: yuebilin
   workgroup:
   - user_id: yuebilin
@@ -51,3 +51,14 @@ timeline:
   - target: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163619/002_yuebilin_act_c5ecc4.md
     judgement: passed
     comment: 示例方案已能说明下一步怎么推进。
+- file: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163619/004_yuebilin_result_eb3489.md
+  created_at: '2026-05-09T16:36:21+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: result
+  summary: 示例：完成收口，形成可追溯结论。
+  quote: discussions/示例/欢迎使用 Pivot - 你的第一个事项-20260509-163619/003_yuebilin_verify_5e39d1.md
+  outcome: finished
+  status_change:
+    from: executing
+    to: finished
