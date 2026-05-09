@@ -2,7 +2,7 @@
 type: think
 author: yuebilin
 created: '2026-05-09T16:36:19+08:00'
-index_state: un-indexed
+index_state: indexed
 ---
 # 欢迎使用 Pivot - 你的第一个事项
 
