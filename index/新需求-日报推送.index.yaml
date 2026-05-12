@@ -4,7 +4,7 @@ matter:
   title: 新需求-日报推送
   current_status: executing
   created_at: '2026-04-28T10:51:44+08:00'
-  updated_at: '2026-05-07T18:40:07+08:00'
+  updated_at: '2026-05-12T16:25:13+08:00'
 timeline:
 - file: discussions/Pivot/新需求-日报推送/001_terry.tao_think_5aad1b.md
   created_at: '2026-04-28T10:51:44+08:00'
@@ -184,3 +184,10 @@ timeline:
   type: act
   summary: 将日报推送改为飞书精简摘要搭配页面版完整查看模式，新增页面入口、双视图及链接生成逻辑，并完善相关回归测试。
   quote: discussions/Pivot/新需求-日报推送/015_liuyu_verify_622426.md
+- file: discussions/Pivot/新需求-日报推送/017_yuebilin_think_154939.md
+  created_at: '2026-05-12T16:25:13+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: think
+  summary: '213213'
+  quote: discussions/Pivot/新需求-日报推送/003_dengke_think_94a7c1.md
