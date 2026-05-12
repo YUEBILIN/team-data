@@ -5,7 +5,7 @@ matter:
   current_status: finished
   owner: liuyu
   created_at: '2026-04-27T20:29:28+08:00'
-  updated_at: '2026-05-06T21:12:10+08:00'
+  updated_at: '2026-05-12T16:55:24+08:00'
 timeline:
 - file: discussions/Pivot/Pivot改版升级意见收集/001_tangkun_think_0980a2.md
   created_at: '2026-04-27T20:29:28+08:00'
@@ -13,17 +13,17 @@ timeline:
   owner: ou_63b6889c8a7a79d15b43ee3082a3e0b8
   type: think
   summary: Pivot 核心工作流完成从 thread 向 Matter 的迁移，正式发布 Matter 首个完整版本，涵盖功能新增、AI 接入、UI 优化及多项缺陷修复。
-  comments:
+  mentions:
   - created_at: '2026-04-27T20:50:24+08:00'
     body: 李帅已重启
-    mentions:
-    - lishuai
     author: tangkun
+    targets:
+    - lishuai
   - created_at: '2026-04-27T20:52:16+08:00'
     body: 测试提醒
-    mentions:
-    - tangkun
     author: lishuai
+    targets:
+    - tangkun
 - file: discussions/Pivot/Pivot改版升级意见收集/002_zhangbo_think_e3c939.md
   created_at: '2026-04-28T11:09:32+08:00'
   creator: zhangbo
@@ -31,14 +31,14 @@ timeline:
   type: think
   summary: 指出 Pivot 当前存在的五项体验问题（如界面英文过多、缺乏工作流视图、未读提示体验差及开发术语晦涩等），并提出增加图片支持与全员通知类型两项功能建议。
   quote: discussions/Pivot/Pivot改版升级意见收集/001_tangkun_think_0980a2.md
-  comments:
+  mentions:
   - body: 目前使用过程中觉得很困惑的一些点和建议
-    mentions:
+    author: zhangbo
+    targets:
     - tangkun
     - liuyu
     - dengke
     - terry.tao
-    author: zhangbo
 - file: discussions/Pivot/Pivot改版升级意见收集/003_dengke_think_a57b3e.md
   created_at: '2026-04-28T11:22:41+08:00'
   creator: dengke
@@ -138,3 +138,10 @@ timeline:
   status_change:
     from: executing
     to: finished
+- file: discussions/Pivot/Pivot改版升级意见收集/012_yuebilin_insight_d1026b.md
+  created_at: '2026-05-12T16:55:24+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: insight
+  summary: '66666666'
+  quote: discussions/Pivot/Pivot改版升级意见收集/001_tangkun_think_0980a2.md
