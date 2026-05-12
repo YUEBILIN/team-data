@@ -11,7 +11,7 @@ matter:
     - 1cd533d088b6490b8cb6059aeb7ba9ae
     - 1e8f676da1c4418c83e7820cc81e75dd
   created_at: '2026-05-07T15:39:48+08:00'
-  updated_at: '2026-05-07T15:42:08+08:00'
+  updated_at: '2026-05-12T20:15:03+08:00'
 timeline:
 - file: discussions/小号测试/岳碧林小号2222/001_yuebilin_think_a34f31.md
   created_at: '2026-05-07T15:39:48+08:00'
@@ -25,3 +25,10 @@ timeline:
   from_owner: yuebilin2
   to_owner: yuebilin
   reason: '21'
+- file: discussions/小号测试/岳碧林小号2222/002_yuebilin_insight_7587a7.md
+  created_at: '2026-05-12T20:15:03+08:00'
+  creator: yuebilin
+  owner: yuebilin
+  type: insight
+  summary: 草稿：复盘
+  quote: discussions/小号测试/岳碧林小号2222/001_yuebilin_think_a34f31.md
