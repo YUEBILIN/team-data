@@ -1,0 +1,25 @@
+version: 1
+matter:
+  id: '213'
+  title: '213'
+  current_status: planning
+  owner: yuebilin2
+  workgroup:
+  - user_id: yuebilin2
+    role: 项目负责人
+    is_owner: true
+    added_at: '2026-05-13T19:22:13+08:00'
+    added_by: yuebilin2
+  visibility:
+    mode: public
+    roles: []
+    user_ids: []
+  created_at: '2026-05-13T19:22:13+08:00'
+  updated_at: '2026-05-13T19:22:13+08:00'
+timeline:
+- file: discussions/小号测试/213/001_yuebilin2_think_8f4ba2.md
+  created_at: '2026-05-13T19:22:13+08:00'
+  creator: yuebilin2
+  owner: yuebilin2
+  type: think
+  summary: '123'
